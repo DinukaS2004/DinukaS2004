@@ -7,11 +7,7 @@
     <tr>
       <td width="50%" cellpadding="40">  
         
-- 🌱 I’m currently learning **OOP in JAVA**
 
-- 🤝 I’m currently studying at **iCET institute**
-
-- 💬 Ask me about **Web development**
 
 - 📫 How to reach me **dinukad735@gmail.com**
 
