@@ -7,8 +7,8 @@
     <tr>
       <td width="50%" cellpadding="40">  
         
-
-
+-  🌱 I’m currently learning **Python**
+- 💬 Ask me about **Web development**
 - 📫 How to reach me **dinukad735@gmail.com**
 
 - ⚡ Fun fact **Playing games at free time**
