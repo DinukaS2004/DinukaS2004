@@ -7,11 +7,11 @@
     <tr>
       <td width="50%" cellpadding="40">  
         
--  🌱 I’m currently learning **Python**
+-  🌱 I’m currently learning **React Native**
 - 💬 Ask me about **Web development**
 - 📫 How to reach me **dinukad735@gmail.com**
 
-- ⚡ Fun fact **Playing games at free time**
+- ⚡ Fun fact **Trying to gain 10kg & build muscle — started gym in June 2025 💪**
 
     </td>
       <td width="50%" cellpadding="70">
